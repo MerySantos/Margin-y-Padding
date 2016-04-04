@@ -1,0 +1,7 @@
+/* Agrega aqui tu CSS */
+.caja{
+width: 200px;
+border: 1.5px solid orange;
+padding: 7px;
+/*margin-bottom: 10px;*/
+}
